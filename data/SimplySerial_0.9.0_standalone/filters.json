@@ -1,0 +1,20 @@
+[
+    {
+        "Type": "INCLUDE",
+        "Match": "STRICT",
+        "Port": "*",
+        "VID": "2890",
+        "PID": "8022",
+        "Description": "*",
+        "Device": "*"
+    },
+    {
+        "Type": "EXCLUDE",
+        "Match": "LOOSE",
+        "Description": "bluetooth"
+    },
+    {
+        "Type": "EXCLUDE",
+        "Match": "CIRCUITPYTHON"
+    }
+  ]

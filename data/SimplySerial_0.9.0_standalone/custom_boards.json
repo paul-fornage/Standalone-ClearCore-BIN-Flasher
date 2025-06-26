@@ -1,0 +1,16 @@
+{
+    "vendors": [
+        {
+            "vid": "2890",
+            "make": "Teknic"
+        }
+    ],
+    "boards": [
+        {
+            "vid": "2890",
+            "pid": "8022",
+            "make": "Teknic",
+            "model": "ClearCore"
+        }
+    ]
+}
