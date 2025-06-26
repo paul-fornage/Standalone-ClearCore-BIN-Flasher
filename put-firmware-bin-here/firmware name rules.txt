@@ -1,0 +1,3 @@
+Must be named `firmware.bin`. Windows might not show you the `.bin`,
+but the script will explicitly tell you that it couldn't find the
+file if that's the problem
