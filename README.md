@@ -8,6 +8,8 @@ Windows only! If you are using Linux you don't need a helper script, and if you 
 
 - Run Flash ClearCore to flash, `flash_and_monitor.cmd` to flash and then view the output
 
+- To just view the output without flashing, run `monitor.cmd`
+
 ### If that doesn't work, it's possible the shortcut broke. Here are the steps you can take _if the shortcut does not work_:
 
 - Open the root folder from a terminal. Windows tries to make this impossible because it assumes the user doesn't mean 
